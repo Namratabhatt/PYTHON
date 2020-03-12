@@ -15,4 +15,10 @@ SEMIPRIME:A semiprime number is an integer which can be expressed as a product o
 Given an integer number N, find whether it can be expressed as a sum of two semi-primes or not (not necessarily distinct).
 ex:Input:30
    Output:Yes
+   
+STRING-REVERSE:reverse the string without effecting the position of the special character
+ex:input:a#b@c
+   output:c#b@a
+   
+
 
