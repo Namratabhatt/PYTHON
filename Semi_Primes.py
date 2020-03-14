@@ -1,4 +1,9 @@
-prime1=[]
+'''SEMIPRIME:A semiprime number is an integer which can be expressed as a product of two distinct primes. For example 15 = 3*5 is a semiprime number but 9 = 3*3 is not .
+Given an integer number N, find whether it can be expressed as a sum of two semi-primes or not (not necessarily distinct).
+ex:Input:30
+   Output:Yes'''
+   
+ prime1=[]
 prime2=[]
 semiprime1=[]
 semiprime2=[]
