@@ -20,5 +20,10 @@ STRING-REVERSE:reverse the string without effecting the position of the special 
 ex:input:a#b@c
    output:c#b@a
    
+LONGEST_PRESUFFIX:given a string s,find the length of the prefix which is also suffix which doesn"t overlap.
+ex:input:abcdabc
+   output:3
+   
+
 
 
