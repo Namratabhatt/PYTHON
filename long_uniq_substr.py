@@ -1,3 +1,9 @@
+'''given a string, find the longest substring  of lenght greater than 3 with unique characters which is case insensitive
+ex:ip:aabcbc
+   op:abc
+   '''
+
+
 istring=input()
 lenght=len(istring)
 unique=''
