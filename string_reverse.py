@@ -1,3 +1,8 @@
+'''STRING-REVERSE:reverse the string without effecting the position of the special character
+ex:input:a#b@c
+   output:c#b@a
+   '''
+
 string = input()
 arr = []
 op = ""
