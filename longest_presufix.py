@@ -1,3 +1,8 @@
+'''LONGEST_PRESUFFIX:given a string s,find the length of the prefix which is also suffix which doesn"t overlap.
+ex:input:abcdabc
+   output:3
+   '''
+
 istring=input()
 lenght=len(istring)
 half=lenght//2
