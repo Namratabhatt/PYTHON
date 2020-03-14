@@ -1,3 +1,8 @@
+'''From a given string,find out the unique digits to form the largest number which is even and print it.if not found print -1
+ex:input:infy@14281
+   output:8412
+   '''
+
 istring=input()
 lenght=len(istring)
 l=[]
