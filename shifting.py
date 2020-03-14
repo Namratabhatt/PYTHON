@@ -1,3 +1,9 @@
+'''Given a string,having a name and a number,square the digits of the number and check if it is even,if so shift the last two characters to 
+the front,if odd, shift the first letter at back
+ex:ip:abcd:1234,bcdgfhf:127836
+   op:cdab cdgfhfb
+'''
+
 istring=input().split(',')
 for i in istring:
     temp=i.split(':')
