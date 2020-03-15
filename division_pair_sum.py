@@ -1,3 +1,8 @@
+'''Given an array m and an integer m ,we have to find distinct pairs whode sum is divisible by the number m
+ex:ip:10,9,4,5,7,2,8,20,21
+   op:4
+'''
+
 n=[10,9,4,5,7,2,8,20,21]
 m=15
 
